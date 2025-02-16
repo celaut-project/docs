@@ -7,4 +7,4 @@
 
 
 
-![Roadmap](roadmap.svg)
+![Roadmap](celaut-roadmap.excalidraw.svg)
