@@ -1,3 +1,5 @@
+## Index
+
 - **[FAQ](FAQ.md)**: Frequently asked questions about the repository.
 
 - **Tutorials**  
@@ -5,6 +7,8 @@
 
 
 
+</br>
 
+## Roadmap
 
 ![Roadmap](celaut-roadmap.excalidraw.svg)
