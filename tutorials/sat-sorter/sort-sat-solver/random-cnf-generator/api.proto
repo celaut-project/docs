@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "buffer.proto";
+
+package api;
+
+// Random
+message Clause {
+    repeated int32 literal = 1;
+}
+
+message Cnf {
+    repeated Clause clause = 1;
+}
+
+service Random {
+    rpc RandomCnf(stream buffer.Buffer) returns (stream buffer.Buffer) {} // Empty -> Cnf
+}
