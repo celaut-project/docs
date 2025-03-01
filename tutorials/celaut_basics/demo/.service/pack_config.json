@@ -5,7 +5,7 @@
   "blocks_directory": "__block__",
   "zip": false,
   "dependencies": [
-    "7d48e6bdf6cd9c02a6fcb81b81b1d73a2934147483da53f654a9596605bb94c7"
+    "3669dadede82840974df20252b1f606b6312b922e8204c95cc8542f321eec530"
   ],
   "include": [
     "start.py"

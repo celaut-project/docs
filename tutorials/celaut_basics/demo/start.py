@@ -7,7 +7,7 @@ from google.protobuf.json_format import MessageToDict
 from node_controller.controller.controller import Controller
 
 
-TINY_SERVICE = "7d48e6bdf6cd9c02a6fcb81b81b1d73a2934147483da53f654a9596605bb94c7"
+TINY_SERVICE = "3669dadede82840974df20252b1f606b6312b922e8204c95cc8542f321eec530"
 
 
 # Create a new Flask app
