@@ -1,5 +1,8 @@
 # Teleport e99
 
+<details>
+<summary>Abrir contexto</summary>
+
 ### Contexto de la Historia
 
 En 2035, en un mundo dividido por una guerra fría entre América y China, Peter Grayson, un emprendedor de 34 años de Nueva York, busca expandir su negocio de purificadores de agua portátiles a Shenzhen, China, a pesar de las fronteras cerradas. Su motivación surge de un ataque con drones que contaminó el agua en su ciudad natal, Ohio, llevándolo a crear estos dispositivos. Con las restricciones comerciales bloqueando su progreso, recibe un mensaje de su amigo Sam sobre Teleport-e99, una solución tecnológica que le permite operar en China sin viajar físicamente.
@@ -49,9 +52,11 @@ Peter usa un visor de Realidad Virtual para controlar un humanoide robótico en 
    - **Propósito:** Garantizar que lo que Peter ve y oye a través del humanoide es real, evitando manipulaciones o desinformación.
 
 
-##### Historia General, sin Ruido
+##### Historia General
 
 Peter Grayson, un emprendedor de Nueva York, quiere vender sus purificadores de agua en China en 2035, pero la guerra fría lo impide. Su amigo Sam le presenta Teleport-e99, que usa Realidad Virtual, Internet rápido, robots y Web3 para operar a distancia. Peter controla un humanoide en Shenzhen desde Brooklyn, paga con Gluon Gold en Sigma Chain, y usa celaut para asegurar que los datos sean reales. Se asocia con Liang, establece un taller y vende purificadores localmente, superando las barreras internacionales con tecnología. Su negocio revive, conectando un mundo dividido.
+
+</details>
 
 ### Capítulo 1: La loca idea de Sam
 

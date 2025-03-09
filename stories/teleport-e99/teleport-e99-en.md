@@ -1,5 +1,8 @@
 # Teleport-e99  
 
+<details>
+<summary>Open context</summary>
+
 ### Story Context  
 
 In 2035, in a world divided by a Cold War between America and China, Peter Grayson, a 34-year-old entrepreneur from New York, seeks to expand his portable water purifier business to Shenzhen, China, despite closed borders. His motivation comes from a drone attack that contaminated the water in his hometown of Ohio, leading him to develop these devices. With trade restrictions blocking his progress, he receives a message from his friend Sam about Teleport-e99, a technological solution that allows him to operate in China without physically traveling.  
@@ -51,6 +54,8 @@ Peter uses a Virtual Reality headset to control a humanoid robot in Shenzhen fro
 ### General History, No Noise
 
 Peter Grayson, an entrepreneur from New York, wants to sell his water purifiers in China in 2035, but the Cold War prevents him. His friend Sam introduces him to Teleport-e99, which uses Virtual Reality, fast Internet, robots, and Web3 to operate remotely. Peter controls a humanoid in Shenzhen from Brooklyn, pays with Gluon Gold on Sigma Chain, and uses celaut to ensure that the data is real. He partners with Liang, sets up a workshop, and sells purifiers locally, overcoming international barriers with technology. His business is revived, connecting a divided world.
+
+</details>
 
 ### Chapter 1: Sam’s Crazy Idea  
 
