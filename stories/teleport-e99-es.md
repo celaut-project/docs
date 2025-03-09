@@ -1,10 +1,10 @@
+# Teleport e99
+
 ### Contexto de la Historia
 
 En 2035, en un mundo dividido por una guerra fría entre América y China, Peter Grayson, un emprendedor de 34 años de Nueva York, busca expandir su negocio de purificadores de agua portátiles a Shenzhen, China, a pesar de las fronteras cerradas. Su motivación surge de un ataque con drones que contaminó el agua en su ciudad natal, Ohio, llevándolo a crear estos dispositivos. Con las restricciones comerciales bloqueando su progreso, recibe un mensaje de su amigo Sam sobre Teleport-e99, una solución tecnológica que le permite operar en China sin viajar físicamente.
 
 Peter usa un visor de Realidad Virtual para controlar un humanoide robótico en Shenzhen desde Brooklyn. Establece un taller para producir y vender purificadores localmente, asociándose con Liang, un comerciante chino. Los purificadores se venden primero en el mercado negro y luego en tiendas legítimas bajo una marca china, generando ganancias en Gluon Gold. A través de esta tecnología, Peter supera las barreras internacionales y revive su negocio, demostrando que la innovación puede unir un mundo fracturado.
-
----
 
 ##### Explicación de las Tecnologías Utilizadas
 
@@ -48,7 +48,6 @@ Peter usa un visor de Realidad Virtual para controlar un humanoide robótico en 
    - **Cómo funciona:** Peter envía su propio software a estos nodos (en el humanoide o servidores clandestinos), que procesan datos sensoriales sin saber qué hacen.  
    - **Propósito:** Garantizar que lo que Peter ve y oye a través del humanoide es real, evitando manipulaciones o desinformación.
 
----
 
 ##### Historia General, sin Ruido
 
