@@ -1,0 +1,1 @@
+Un capitulo por cada protagonista de la historia. Una startup africana, un programador indio y una fabrica europea.
